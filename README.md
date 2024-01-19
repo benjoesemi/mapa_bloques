@@ -1,8 +1,3 @@
-# leaflet-map-simple
-A simple Leaflet map template for new users to fork their own copy, edit, and host on GitHub Pages
+# Mapa de bloqueos Bolivia
+Este mapa interactivo muestra los puntos activo de bloqueo registrados en Bolivia para el 22 de enero de 2023
 
-## Link to live map (replace with link to your site)
-https://handsondataviz.github.io/leaflet-map-simple/
-
-## Create your own
-See step-by-step tutorial at https://HandsOnDataViz.org, an open-access book by Jack Dougherty and Ilya Ilyankou
